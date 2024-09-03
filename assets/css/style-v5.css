@@ -57,7 +57,7 @@ html {
     font-family: 'Anton', sans-serif;
 }
 
-.home_hackCBS>h2 {
+.home_glb>h2 {
     color: #d6b7bc;
     font-family: 'Poppins';
     font-weight: 700;
@@ -68,7 +68,7 @@ html {
     margin-left: 3rem;
 }
 
-.home_hackCBS>h1 {
+.home_glb>h1 {
     /* font-family: "Hemi Head W00 Bold" !important;
     font-style: italic;
     font-weight: 700;
@@ -84,14 +84,14 @@ html {
     margin-top: 15vh;
 }
 
-.hackcbs_landing {
+.glb_landing {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: -26rem;
 }
 
-.home_hackCBS .text {
+.home_glb .text {
     /* width: fit-content;
     font-style: italic;
     font-weight: 600;
@@ -112,7 +112,7 @@ html {
     padding-left: 0.8rem;
 }
 
-.home_hackCBS>h1>span {
+.home_glb>h1>span {
     /* font-family: "Hemi Head W00 Bold" !important;
     font-style: italic;
     font-weight: 800;
@@ -2085,16 +2085,16 @@ lord-icon {
 /* ************ Media Queries ************** */
 
 @media screen and (max-width:1227px) {
-    .home_hackCBS>h1 {
+    .home_glb>h1 {
         font-size: 150px;
     }
 }
 
 @media screen and (max-width:1039px) {
-    .home_hackCBS>h1 {
+    .home_glb>h1 {
         /* line-height: 190px; */
     }
-    .home_hackCBS>h1>span {
+    .home_glb>h1>span {
         font-size: 17rem;
         padding-left: 1rem;
     }
@@ -2182,19 +2182,19 @@ lord-icon {
 }
 
 @media screen and (max-width: 900px) {
-    .home_hackCBS>h1 {
+    .home_glb>h1 {
         /* font-size: 13vw; */
         font-size: 16vw;
         line-height: 110px;
     }
-    .home_hackCBS>h1>span {
+    .home_glb>h1>span {
         font-size: 18vw;
         padding-left: 0.6rem;
     }
     .home_date-container p {
         font-size: 2.5rem;
     }
-    .home_hackCBS>h2 {
+    .home_glb>h2 {
         font-size: 3.7vw;
     }
     .team-box {
@@ -2233,10 +2233,10 @@ lord-icon {
     .home_date-container .fa-calendar {
         font-size: 4vw;
     }
-    .home_hackCBS>h2 {
+    .home_glb>h2 {
         margin-top: 4.5vh;
     }
-    .home_hackCBS>h1 {
+    .home_glb>h1 {
         /* margin-top: 0vh; */
         margin-top: -20vh;
     }
@@ -2271,28 +2271,28 @@ lord-icon {
 }
 
 @media screen and (max-width:624px) {
-    .home_hackCBS>h1 {
+    .home_glb>h1 {
         font-size: 15vw;
         line-height: 110px;
         /* margin-top: -9vh; */
         margin-top: -12vh;
         margin-bottom: 2vh;
     }
-    .home_hackCBS>h2 {
+    .home_glb>h2 {
         font-size: 4vw;
         line-height: 110px;
         margin-top: -2vh;
         margin-bottom: 2vh;
         margin-left: 0px;
     }
-    .home_hackCBS>h1>span {
+    .home_glb>h1>span {
         font-size: 17vw;
     }
     .home_date-container p {
         font-size: 2.7rem;
         margin-top: 10rem;
     }
-    .home_hackCBS .text {
+    .home_glb .text {
         font-size: 4.5vw;
         padding: 0;
         margin: -2rem auto 0 auto;
@@ -2333,12 +2333,12 @@ lord-icon {
 }
 
 @media screen and (max-width: 476px) {
-    .home_hackCBS>h1 {
+    .home_glb>h1 {
         /* font-size: 14vw; */
         font-size: 14.5vw;
         line-height: 100px;
     }
-    .home_hackCBS>h1>span {
+    .home_glb>h1>span {
         font-size: 16.5vw;
     }
     .home_date-container .fa-calendar {
@@ -2530,12 +2530,12 @@ lord-icon {
     color: inherit;
 }
 
-.hackcbs_landing {
+.glb_landing {
     width: 72%;
 }
 
 @media screen and (max-width: 684px) {
-    .hackcbs_landing {
+    .glb_landing {
         width: 90%;
     }
 }

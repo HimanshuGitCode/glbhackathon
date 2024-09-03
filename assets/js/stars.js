@@ -1,1 +1,1 @@
-No Content: https://hackcbs.tech/assets/js/stars.js
+No Content: https://glb.tech/assets/js/stars.js
